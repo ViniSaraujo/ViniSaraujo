@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Vinicius Araujo
 
-**`Desenvolvedora FullStack, Analista de Dados & Suporte Técnico`**
+**`Desenvolvedor FullStack, Analista de Dados & Suporte Técnico`**
 
-Me chamo Vinicius, sou natural de Campinas-SP. 
+Me chamo Vinicius, bem-vindo ao meu perfil sou natural de Campinas-SP. Sou apaixonado por tecnologia e games. 🎮🖥️ 
 
-
+          
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -38,6 +38,14 @@ Me chamo Vinicius, sou natural de Campinas-SP.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
