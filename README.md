@@ -134,6 +134,7 @@ Me chamo Vinicius, bem-vindo ao meu perfil sou natural de Campinas-SP. Sou apaix
 ### 📊 Estatísticas
 
 <p>
+###
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -141,7 +142,7 @@ Me chamo Vinicius, bem-vindo ao meu perfil sou natural de Campinas-SP. Sou apaix
     style="padding-right: 10px;" 
     src="https://github.com/ViniSaraujo?tab=repositories" 
   />
-
+###
 <img 
       align="left" 
       alt="GitHub Stats" 
