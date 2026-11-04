@@ -1,11 +1,16 @@
 # 👩🏻‍💻 Vinicius Araujo
 
-**`Desenvolvedor FullStack, Analista de Dados & Suporte Técnico`**
+**`🎓 Estudante de Ciência da Computação | Foco em Inteligência Artificial, Dados & Desenvolvimento`**
 
-Me chamo Vinicius, bem-vindo ao meu perfil sou natural de Campinas-SP. Sou apaixonado por tecnologia e games. 🎮🖥️ 
+Me chamo Vinicius, bem-vindo ao meu perfil sou natural de Campinas-SP. Sou apaixonado por games e por tecnologia e Inteligência Artificial, com experiência prática de desenvolvimento e infraestrutura adquirida em estágios na Unicamp e na São Leopoldo Mandic. Atualmente, construo soluções de Machine Learning, processamento de linguagem natural (NLP) e orquestração de sistemas multi-agente. 🎮🖥️ 
 
-          
+📫 **Contato:** vini.s.araujo@outlook.com / vinicius-araujo99@hotmail.com
+
+### 📊 Destaque
+* **Kaggle:** [Gaming News Credibility Dataset (1k)](https://www.kaggle.com/datasets/viniciusaraujo99/video-game-news-classification-1k) - Base de dados pública estruturada para treino de modelos NLP.
+
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -131,23 +136,11 @@ Me chamo Vinicius, bem-vindo ao meu perfil sou natural de Campinas-SP. Sou apaix
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Dataset público disponível no Kaggle: 
+(https://www.kaggle.com/datasets/viniciusaraujo99/video-game-news-classification-1k)
 
 <p>
-###
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github.com/ViniSaraujo?tab=repositories" 
-  />
-###
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
+
 
 </p>
